@@ -4,6 +4,7 @@
   "description": "Custom neural net made to familiarize myself with neural nets",
   "main": "index.js",
   "scripts": {
+    "dev": "node src/index.ts",
     "test": "test"
   },
   "repository": {
@@ -19,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/AntonKhodus/neural/issues"
   },
-  "homepage": "https://github.com/AntonKhodus/neural#readme"
+  "homepage": "https://github.com/AntonKhodus/neural#readme",
+  "dependencies": {
+    "tsc": "^2.0.4"
+  }
 }
