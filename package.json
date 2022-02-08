@@ -1,0 +1,23 @@
+{
+  "name": "neural",
+  "version": "1.0.0",
+  "description": "Custom neural net made to familiarize myself with neural nets",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonKhodus/neural.git"
+  },
+  "keywords": [
+    "neural",
+    "net"
+  ],
+  "author": "Anton Khodus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonKhodus/neural/issues"
+  },
+  "homepage": "https://github.com/AntonKhodus/neural#readme"
+}
