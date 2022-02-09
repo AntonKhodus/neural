@@ -1,1 +1,2 @@
-console.log('ts');
+const fs = require("fs");
+
